@@ -1,0 +1,66 @@
+body{
+    background:url("ln.jpg");
+    font-family: "sans-serif";
+}
+.signup-box{
+    width: 500px;
+    height: 720px;
+    margin: auto;
+    background-color: whitesmoke;
+    border-radius: 3px;
+}
+.login-box{
+    width: 500px;
+    height: 420px;
+    margin: auto;
+    background-color: whitesmoke;
+    border-radius: 3px;
+
+}
+h1 {
+    text-align: center;
+    padding-top: 15px;
+}
+h4{
+    text-align: center;
+}
+form{
+    width: 300px;
+    margin-left: 20px;
+}
+form label{
+    display: flex;
+    margin-top: 20px;
+    font-size: 18px;
+}
+form input{
+    width: 400px;
+    padding: 10px;
+    border: none;
+    border: 1px solid black;
+    border-radius: 6px;
+    outline: none;
+}
+input[type="button"]{
+    width: 320px;
+    height: 35px;
+    margin-top: 20px;
+    border: none;
+    background-color: pink;
+    color:blue;
+    font-size: 18px;
+}
+p{
+    text-align: center;
+    padding-top: 20px;
+    font-size: 20px;
+}
+.para-2{
+    text-align: center;
+    color: midnightblue;
+    font-size: 20px;
+    margin-top: 20px;
+}
+.para-2 a{
+    color: aqua;
+}
